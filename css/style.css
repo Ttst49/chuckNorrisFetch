@@ -1,0 +1,43 @@
+body{
+    background-color: #e74444;
+    padding-top: 15px;
+
+}
+
+div.boutonCategories{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.boutonRandom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 15px;
+}
+p{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 10px;
+
+}
+
+.un{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 85vw;
+}
+
+.deux{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 85vw;
+    margin-top: 15px;
+}
